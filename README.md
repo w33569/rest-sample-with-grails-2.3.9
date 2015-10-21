@@ -3,7 +3,7 @@
 Rest sample with Grails-2.3.9 + JDK8u31. Not working with JDK8u40 and above.
 
 ### Usage
-
+ 
 1. `$ git clone`
 1. `$ cd rest-sample-with-grails-2.3.9`
 1. `$ ./grailsw`
