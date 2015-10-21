@@ -1,7 +1,7 @@
 ## rest-sample
 
 Rest sample with Grails-2.3.9 + JDK8u31. 
-Note: Not working with JDK8u40 and above.
+Not working with JDK8u40 and above.
 
 ### Usage
 
